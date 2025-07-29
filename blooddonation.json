@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "blooddonation-76659",
+  "private_key_id": "a2c35925bc8fa3da9b430b1cedf33e808c72af4c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClvhu3QCnkDc9b\nOnDZ4C9uLj3ToBSmKQSQoPpuo3QRviYY1aV9MIJv0aSDJhN0CgH+be94sKfRx+O8\nu8z4iwvMzBN5yqavBuDAIX23A6REcyXpNm828bPQN3RA3iYtXuMFWchIUWVMcPDf\nH2Pod0p3e9cbGrNS7dVrC6a+MKaiviVZj4Y5SZUI1AVDshkB81MUz+dwEjTKs9mv\nQDMYGqaDybmNJMNCmYI51+3+x683pOuaEeF6FJuofsQOAZVLHcJiQhTPMb8K8dgZ\nKnuXdllC6eP2WzcvdjCc3f1bqrHaJXsff9OhFQs5NvJRfFzWMdqU+9jxFRC2KWAQ\nqvCJihmXAgMBAAECggEAB5IO7whhwXZ2Bbs+I12PnQ9EqLFzsAFIoZiQx9P0fcj7\nMYA0vmqkUpo3Uvw+wDqiy63W1eLvz2+7ccf8PVAQmmqp6xK8GVuNkYkWFnF2o9/E\nmAnx+4b/yR93Um0zPjhK01g+AzugjmTMQ8zJwfkM8Dc6ZJUMItoVOP3/wEk1m1JU\nQSvCUbDAm2TeCSEaH2uUj3aKJtkurMgyFtqtg0JxW9MSNiYmZPYKzpRFeABAJEsf\nnsDCiCkkZtOSdkr3GcLkUH2e0j13tajIBOjhJ0AYMegh5REA4ACvr6brya1tOGrG\n6yY+rG3I+4O5vDNkJe78loRD/Vinb0d5ClVErMHKFQKBgQDdobPmXPKAQkTKj510\nvbvK17TQFAJXGWtrVtVgKyFSjEiIF9tAHg1Kyx5EdoOwvEx9V9d97p5r/3De24D3\nuzJOBIfs9urmeYI8GDCAni9xIdPWt5v33ulWm6ys3ICqf/fC5oWodEhCprBrvUnu\n2x1HDUo3MVJdH7+ezaDvwcwiAwKBgQC/cbtBqo/s9EV5ux/HwTpQLXKGM4pToDC1\n65JuMKptTNu2Kgror8cHycu+zZo6Nnrx4ebQEx9AS+JMg+wfGoDZX6griLg/eppw\nX3u07EHHwqVFB2za6k60xm6i7aLKLVMFET1mxEHH0eCDP/47wOqKw5y41Fu2iyzh\nj87zpqY/3QKBgF4oq+iLxo8NGHLCbw/A5/62g9//EDt21jdFLePsjvymEs6W7BQi\ncF09TD+j5jD43rpFzox3CyEw5gAYW4NkKWwR6rmW8Zc3OkhTso+CJP+4cmp/mSjG\nsHWWL9dE2vkU4usPyusVc/m1HbC4O6fZuWeNUuF999MOgPdzvxL9T7+HAoGAAVLC\n7ZhFOGkT1dySQqo2QfmecgkHKr7Pt2Iyd+qEMw818ZNm0ebtJEOj0eTP7RkVTni2\nRLftHl+n58l9p1VikJ4Vpn9ibqXlTWOLkluTtNLGm6yKdxTpiFxaxWuJFYasrTtK\nRlyS69Oqjp2xny4dMOpbOffVznQ10jVRQ+PiAE0CgYEAmZxoDzKsT+gDREySCdPL\nXj7KrNQyzqukcSOkOeDlaZkGSL4HODhhaDvAT9Cmm5JV5FWGfrq53/4S5F5XWE+4\nPeSJGBycdDWXhLQCGSXTE6QUUOYiLfHAgzkRVfvAUYKQqQ6j3ismvOp4FpQOwy9G\nAjbX3uJ0k01mQLsw46GLaj0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@blooddonation-76659.iam.gserviceaccount.com",
+  "client_id": "112630111532359143459",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40blooddonation-76659.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
